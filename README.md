@@ -4,6 +4,7 @@ This repository contains a clone of a travel website that I created using HTML a
 
 ## Preview
 
+![Screenshot (2)](https://github.com/ssreesa12/Travel-website-clone./assets/139852839/55c1423a-c899-4c6f-bf06-5af4047e2c44)
 
 
 
@@ -22,6 +23,6 @@ As this is a personal project for learning purposes, I am not actively seeking c
 
 ## About Me
 
-I am a passionate web developer, and I enjoy experimenting with various technologies and design concepts. You can find more about me and my projects on my GitHub profile: 
+I am a passionate web developer, and I enjoy experimenting with various technologies and design concepts. You can find more about me and my projects on my GitHub profile: (https://github.com/ssreesa12/Travel-website-clone)
 
 Thank you for checking out my Travel Website Clone! I hope you find it interesting and insightful. If you have any questions or feedback, feel free to reach out. Happy coding!
