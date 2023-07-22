@@ -1,0 +1,310 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+   }
+div.uppermenu{
+    position: absolute;
+    display: inline-block;
+    width:500px;
+     padding-top: 30px;
+      margin-left: 850px;
+    }
+a{
+    color: white;
+    text-shadow: 2px 0px 2px black;
+    text-decoration: solid black underline;
+    font-family:fantasy
+    
+    }
+div.image{
+    background-image: url(colorful-sunset-reflected-in-textured-beach-sand.jpg);
+   
+    height: 10cm;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:38cm ;
+   
+
+}
+h1{
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 100px;
+    font-size: 96px;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 300px;
+    color:white;
+    text-shadow: 2px 0px 2px black;
+}
+button{
+    width: 3cm;
+    border-radius: 9px;
+    background-color:rgba(242, 248, 248,0.2);
+    color: white;
+    text-shadow: 2px 0px 2px black;
+    box-shadow: 2px 0px 2px black;
+    height: 30px;
+}
+.cointainer{
+   display: inline-block;
+  margin-top: 130px;
+  margin-left: 80px;
+  position: absolute;
+  box-shadow: 0 10px 20px black;
+  }
+  img{
+    width: 500px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius:70px ;
+  }
+  .overlay{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    opacity: 0;
+    transition: opacity 0.4s ease-in-out;
+    background:rgb(239, 225, 209);
+    cursor: pointer;
+ }
+ h2{
+   padding-top: 110px;
+ color: rgb(51, 29, 44);
+ font-family:'Kaushan Script', cursive;
+    text-align: center;
+    font-size: 50px ;
+ }
+ .cointainer:hover .overlay{
+    opacity: 0.8;
+ }
+.changes{
+    text-decoration: none;
+    text-shadow: none;
+}
+.cointainersec{
+    display: inline-block;
+}
+.culcoin{
+     margin-top: 130px;
+   margin-left: 650px;
+  
+   position: absolute;
+   margin-right: 80px;
+   box-shadow: 0 10px 20px black;
+}
+.culover{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    opacity: 0;
+    transition: opacity 0.4s ease-in-out;
+    background:rgb(239, 225, 209);
+    cursor: pointer;
+}
+.culcoin:hover .culover{
+    opacity: 0.8;
+}
+.imagesec{
+    width: 500px;
+    height: 290px;
+}
+.h{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+    padding-left: 80px;
+    margin-top: 20px;
+    background-color:rgb(167, 130, 149);
+}
+.c{
+    display: inline-block;
+   margin-top: 390px;
+   margin-left: 810px;
+   position: absolute;
+   box-shadow: 0 10px 20px black;
+   }
+   .o{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    opacity: 0;
+    transition: opacity 0.4s ease-in-out;
+    background:rgb(239, 225, 209);
+    cursor: pointer;
+ }
+ .c:hover .o{
+    opacity: 0.8;
+ }
+ .new{
+    padding-bottom: 100px;
+ }
+ .p{
+    display: inline-block;
+   margin-top: 430px;
+   width: 700px;
+   background-color: rgb(239, 225, 209);
+  border-radius: 10px;
+  padding: 10px 10px 10px 10px ;
+  margin-left:30px ;
+   text-align: justify;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   box-shadow: 0px 3px 3px  ;
+   }
+   .trend{
+    margin-top: 70px;
+    padding-left: 80px;
+    font-size: 40px;
+    font-family:'Kaushan Script', cursive; 
+   }
+   .sen{
+    padding-top:2px ;
+    padding-left:85px ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:200px;
+   }
+   #mm{
+    border-radius: 0px;
+    width: 450px;
+    border: 2px solid rgb(51, 29, 44);
+}
+.P{
+    display: inline-block;
+    margin-left: 20px;
+    padding-top: 35px;
+   
+    }
+ 
+  /* ul{
+    display: inline-block;
+  } */
+  li{
+    display: inline-block;
+    margin-right: 10px;
+    font-family:serif;
+  }
+  #nn{
+    position: relative;
+    right: 30px;
+    border-radius: 0px;
+    width: 450px;
+    border: 2px solid rgb(51, 29, 44);
+    margin-right: 40px;
+    
+  }
+  .delhi{
+    display: inline-block;
+position: relative;
+right: 390px;
+bottom: 255px;
+font-size: 30px;
+color: white;
+
+  }
+  .kashmir{
+    position: relative;
+    left: 580px;
+    bottom: 270px;
+    font-size: 30px;
+    color: white;
+  }
+  #bb{
+    position: relative;
+    left: 990px;
+    width: 320px;
+    height: 300px;
+    bottom: 345px;
+    border-radius: 0;
+    border: solid rgb(51, 29, 44);
+  }
+  .bang{
+    position: relative;
+    left: 1020px;
+    bottom: 600px;
+    font-size: 30px;
+    color: white;
+  }
+ .small{
+    display: inline-block;
+ }
+ .packag{
+    position: relative;
+    bottom: 300px;
+    left: 80px;
+    font-family:'Kaushan Script', cursive;
+    font-size: 50px;
+ }
+ .pac{
+    position: relative;
+    bottom: 300px;
+    left: 90px;
+    font-size: 20px;
+   font-family:Arial, Helvetica, sans-serif;
+   font-weight: 1;
+ }
+ #track .f{
+    width: 50vmin;
+    height: 56vmin;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 20%;
+    border: solid rgb(239, 225, 209);
+
+}
+#track{
+    display: flex;
+    gap: 4vmin;
+    position: relative;
+    bottom: 250px;
+    left: 50px;
+  
+  }
+  #n{
+    display: flex;
+    gap: 50vmin;
+    position: relative;
+    bottom: 320px;
+    left: 80px;
+    right: 40px;
+    text-align: center;
+   color:black;
+   font-family:'Kaushan Script', cursive;
+   font-size: 20px;
+  }
+  .footer{
+    background-color:rgb(51, 29, 44) ;
+   padding-bottom: 100px;
+  }
+  p{
+    color: white;
+    text-align: center;
+  }
+  input{
+    display: inline-block;
+    position: relative;
+    left: 560px;
+    width: 300px;
+    bottom: 100px;
+    height: 50px;
+    border: solid rgb(51, 29, 44) ;
+    border-radius: 50px;
+   box-shadow: 2px 0px 2px ;
+   background-color:rgb(239, 225, 209);
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   }
+   #sss{
+    position: relative;
+    left: 321px;
+    bottom: 30px;
+    background-color:  rgb(51, 29, 44);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500px;
+    width: 170px;
+   }
+  
